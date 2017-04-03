@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RogueSurv", "Assembly-CSharp.csproj", "{6C610FD1-853B-6064-91A7-D2BC77A8A093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RogueSurv", "Assembly-CSharp-Editor.csproj", "{2DF358AB-DCE1-E425-6088-BD8BDB9963DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C610FD1-853B-6064-91A7-D2BC77A8A093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C610FD1-853B-6064-91A7-D2BC77A8A093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C610FD1-853B-6064-91A7-D2BC77A8A093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C610FD1-853B-6064-91A7-D2BC77A8A093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DF358AB-DCE1-E425-6088-BD8BDB9963DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF358AB-DCE1-E425-6088-BD8BDB9963DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF358AB-DCE1-E425-6088-BD8BDB9963DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF358AB-DCE1-E425-6088-BD8BDB9963DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
